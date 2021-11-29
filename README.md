@@ -1,12 +1,15 @@
-**Home Page of Chart Visualization**![](RackMultipart20211129-4-1dkmxy3_html_4c89566dd6ad9aeb.png)
+## Home Page of Chart Visualization
+![](https://github.com/mv1249/ChartVisualisation/blob/main/images/home.PNG)
 
-**Bar Charts For Visualization**![](RackMultipart20211129-4-1dkmxy3_html_b44cf8c76e529a8.png)
 
-**Pie charts Visualisation**
+## Bar Charts For Visualization
+![](https://github.com/mv1249/ChartVisualisation/blob/main/images/bar.PNG)
 
-![](RackMultipart20211129-4-1dkmxy3_html_a4bd03429a2fb9f2.png)
+## Pie charts Visualisation**
 
-**Additional Resources :**
+![](https://github.com/mv1249/ChartVisualisation/blob/main/images/piechart.PNG)
+
+## Additional Resources :
 
 **Link of the website :** [**https://chartvisualiser.herokuapp.com/**](https://chartvisualiser.herokuapp.com/)
 
